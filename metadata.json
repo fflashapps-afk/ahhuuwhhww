@@ -1,0 +1,6 @@
+{
+  "name": "CLL SHRPV 1.0",
+  "description": "Index va reyting ma'lumotlariga ega qidiruv tizimlari va global qidiruv integratsiyasi. Multilingual support and dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
